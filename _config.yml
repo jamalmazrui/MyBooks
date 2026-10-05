@@ -1,0 +1,6 @@
+title: My Books
+description: The Kindle Books of Jamal Mazrui
+lang: en-US
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag

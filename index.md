@@ -2,13 +2,11 @@
 title: "My Books"
 subtitle: "The Kindle Books of Jamal Mazrui"
 author: "Jamal Mazrui"
-date: "October 2026"
+date: "2026-10-04"
 lang: "en-US"
 description: "A directory of the 22 Kindle books by Jamal Mazrui, grouped by series, with a short description of each, a link to its Amazon page, how to get an EPUB copy with a screen reader, and his articles and interviews."
 keywords: [Jamal Mazrui, Kindle books, narrative nonfiction, accessibility, blind author, Strange Truths, Among the Greatest, Ali Mazrui]
 ---
-
-# My Books
 
 ## Contents {#contents}
 
