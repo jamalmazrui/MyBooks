@@ -1,11 +1,13 @@
-﻿---
+---
 title: "My Books"
 subtitle: "The Kindle Books of Jamal Mazrui"
 author: "Jamal Mazrui"
-date: "2026-10-04"
+date: "2026-10-06"
 lang: "en-US"
 description: "A directory of the 22 Kindle books by Jamal Mazrui, grouped by series, with a short description of each, a link to its Amazon page, how to get an EPUB copy with a screen reader, and his articles and interviews."
 keywords: [Jamal Mazrui, Kindle books, narrative nonfiction, accessibility, blind author, Strange Truths, Among the Greatest, Ali Mazrui]
+license: "CC BY-SA 4.0"
+license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
 ## Contents {#contents}
@@ -27,7 +29,7 @@ I am a blind author, software developer and accessibility professional, and thes
 
 Some habits run through them. Each book is built to be read with a screen reader, by speech or braille, as comfortably as with eyes: real headings, a linked table of contents and no information carried by pictures alone. Each book names its sources, and the Strange Truths series checks every story against peer-reviewed research, official reports, memoirs and reference works. For readability, many of the books are written at about a ninth-grade reading level, with technical terms explained the first time they appear. And AI models have assisted the writing of many of the books; each one that had such help says so in its own pages.
 
-Each title below is a link to the book's page on Amazon. The description under it is a short version of the one on that page.
+Each title below is a link to the book's page on Amazon. The description under it is a short version of the one on that page. Eighteen of these books, the ones I wrote alone, also appear with books by other blind and low-vision authors in [Blind Books][blind-books].
 
 ## Getting an EPUB copy {#getting-an-epub-copy}
 
@@ -198,6 +200,7 @@ Ignoring a leading "The." The series or group follows each title.
 
 This page is by Jamal Mazrui and is offered under the Creative Commons Attribution-ShareAlike 4.0 license, the license Wikipedia uses; the books themselves are sold under their own terms.
 
+[blind-books]: https://jamalmazrui.github.io/BlindBooks/
 [mycd]: https://www.amazon.com/hz/mycd/digital-console/contentlist/booksAll/dateDsc/
 [kdp-drm]: https://kdp.amazon.com/en_US/help/topic/GDDXGH9VR22ACM8U
 [acm]: https://queue.acm.org/detail.cfm?id=3704442
