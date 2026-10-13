@@ -1,6 +1,6 @@
 ---
 title: "My Books"
-subtitle: "The Kindle Books of Jamal Mazrui"
+subtitle: "A Directory of 22 Kindle Books by Jamal Mazrui"
 author: "Jamal Mazrui"
 date: "2026-10-06"
 lang: "en-US"
@@ -12,6 +12,7 @@ license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
 ## Contents {#contents}
 
+- [By the Numbers](#by-the-numbers)
 - [About these books](#about-these-books)
 - [Getting an EPUB copy](#getting-an-epub-copy)
 - [Author profiles](#author-profiles)
@@ -22,6 +23,11 @@ license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 - [Public documents as Kindle editions](#public-documents-as-kindle-editions) (2 books)
 - [Articles and interviews](#articles-and-interviews) (7 pieces)
 - [All titles in alphabetical order](#all-titles-in-alphabetical-order)
+
+## By the Numbers {#by-the-numbers}
+
+- 22 books in 5 groups.
+- The largest group is Strange Truths, with 11 books.
 
 ## About these books {#about-these-books}
 
